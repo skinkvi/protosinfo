@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package systeminfo;
 
-option go_package = "skin.info.v1;infov1"
+option go_package = "skin.info.v1;infov1";
 
 service SystemInfoService {
     rpc SendCPU(CPURequest) returns (CPUResponse);
