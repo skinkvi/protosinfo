@@ -1,4 +1,4 @@
-module github.com/skinkvi/protoinfo
+module github.com/skinkvi/protosinfo
 
 go 1.22.5
 
